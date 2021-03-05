@@ -1,11 +1,11 @@
-name: "MyLabJournal"
+name: "EDF 6938"
 navbar:
-  title: "MyLabJournal"
+  title: "EDF 6938"
   left:
-    - text: "Home"
+    - text: "Syllabus"
       href: index.html
-    - text: "Journal"
+    - text: "Lecutre"
       href: Journal.html
-    - text: "Links"
+    - text: "Resources"
       href: Links.html
 output_dir: "docs"

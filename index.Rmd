@@ -1,43 +1,50 @@
 ---
-title: "EDF 6938"
+title: " "
 output: html_document
+
 ---
+\
 
-<style type="text/css">
-.title {
-  display: none;
-}
+![](images/uf.png)
 
-#getting-started img {
-  margin-right: 10px;
-}
+### EDF 6938: Introduction to NLP in Education Research
+<hr />
+#### **Jinnie Shin, Ph.D.**\
+#### **Email**: {firstname}.{lastname}\@coe.ufl.edu \
+#### **Office**: 1602 Norman Hall \
+#### **Office Hours**: By appointment 
+<hr />
 
-</style>
+### 1. Course Description 
+This course is designed to introduce the basic concepts and techniques of natural language processing in education research. We will especially focus on text mining and natural language understanding. Students will have opportunities [1] to survey the NLP literature in emerging education research context [2] to acquire theoretical backgrounds to understand the methods and [3] to gain hands-on experience in education text analysis using *Python*. The primary topics will include, but not limited to, text vectorization, factor analysis and dimensionality reduction in text data, supervised and unsupervised analyses in text. 
+\
 
-<div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
+#### Objectives 
 
-# **My Lab Journal**
+- Students will understand the growing **importance and demand of text analysis** in education assessment research 
+- Students will gain basic **programming knowledge and hands-on experience** to conduct NLP analysis using Python  
+- Students will acquire **theoretical and mathematical foundation** to understand the emerging NLP techniques in education research 
+\
+\
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+### 2. Schedule 
 
-## How to use
+|Week|Topic|Assignment|Project |
+|---|---|---|---|
+| 1|Introduction to NLP in Education Research|    
+| 2|Representing Text into a Vector Space |      
+| 3|Representing Text into a Vector Space |Assignment 1|
+| 4|Text and Psychometric Analysis (1)|   |Proposal|
+| 5|Text and Psychometric Analysis (2)|Assignment 2 |  
+| 6|Text and Supervised Learning (1)|       
+| 7|Text and Supervised Learning (2)||Literature Review|
+| 8|Text and Unsupervised Learning (1)|Assignment 3| 
+| 8|Language Modelling: Statistical Language Models |   ||
+| 9|Langauge Modelling: Neural Language Models   |  |Methods|
+| 10|**Project Discussion**   |Assignment 4| |
+| 11|*Advanced Topic*: Computational Linguistic Tools   |     
+| 12|*Advanced Topic*: Sentiment Analysis|     
+| 13|*Advanced Topic*: Automated Essay Scoring  ||Results|
+| 14|*Advanced Topic*: Topic Modelling and Summarization  | ||  
+| 15|**Project Presentation**   | |Final Submission|
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
-
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
-
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
-
-4. Change everything to make it your own.
-
-
-</div>
-<div class="col-sm-6">
-
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
-
-<a href = "https://crumplab.github.io">
-![](images/logo.png)
-</a>
-</div>
