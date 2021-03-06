@@ -13,10 +13,12 @@ output: html_document
 #### **Email**: {firstname}.{lastname}\@coe.ufl.edu \
 #### **Office**: 1602 Norman Hall \
 #### **Office Hours**: By appointment 
+#### [Course Syllabus](./images/EDF 6938 (official syllabus).pdf)
+
 <hr />
 
 ### 1. Course Description 
-This course is designed to introduce the basic concepts and techniques of natural language processing in education research. We will especially focus on text mining and natural language understanding. Students will have opportunities **[1]** *to survey the NLP literature in emerging education research context* **[2]** *to acquire theoretical backgrounds to understand the methods and* **[3]** *to gain hands-on experience in education text analysis using Python.* The primary topics will include, but are not limited to, text vectorization, factor analysis and dimensionality reduction in text data, supervised and unsupervised analyses in text.
+This course is designed to introduce the basic concepts and techniques of natural language processing in education research. We will especially focus on text mining and natural language understanding. Students will have opportunities **[1]** *to survey the NLP literature in emerging education research context* **[2]** *to acquire theoretical backgrounds to understand the methods and* **[3]** *to gain hands-on experience in education text analysis using Python.* The primary topics will include, but are not limited to, text vectorization, computational linguistic analysis, supervised and unsupervised ML  in text analysis.
 
 \
 
@@ -30,22 +32,21 @@ This course is designed to introduce the basic concepts and techniques of natura
 
 ### 2. Schedule 
 
-|Week|Topic|Assignment|Project |
-|---|---|---|---|
-| 1|Introduction to NLP in Education Research|    
-| 2|Representing Text into a Vector Space |      
-| 3|Representing Text into a Vector Space |Assignment 1|
-| 4|Text and Psychometric Analysis (1)|   |Proposal|
-| 5|Text and Psychometric Analysis (2)|Assignment 2 |  
-| 6|Text and Supervised Learning (1)|       
-| 7|Text and Supervised Learning (2)||Literature Review|
-| 8|Text and Unsupervised Learning (1)|Assignment 3| 
-| 8|Language Modelling: Statistical Language Models |   ||
-| 9|Langauge Modelling: Neural Language Models   |  |Methods|
-| 10|**Project Discussion**   |Assignment 4| |
-| 11|*Advanced Topic*: Computational Linguistic Tools   |     
-| 12|*Advanced Topic*: Sentiment Analysis|     
-| 13|*Advanced Topic*: Automated Essay Scoring  ||Results|
-| 14|*Advanced Topic*: Topic Modelling and Summarization  | ||  
-| 15|**Project Presentation**   | |Final Submission|
+|Week|Topic|Lab|Assignment|Project |
+|---|---|---|---|---|
+| 1|Introduction to NLP in Education Research|Intro to Python & GitHub| 
+| 2|Projecting Text into a Vector Space |Intro to Python & GitHub|    
+| 3|Projecting Text into a Vector Space |Text Vectorization|||
+| 4|Text and Psychometric Analysis (1)|	Text Analysis   |Assignment 1||
+| 5|Text and Psychometric Analysis (2)|	Text Analysis + Ass1 review||  
+| 6|*Advanced Topic*: Computational Linguistic Tools   |Coh-Metrix||Project 1|
+| 7|Text and Supervised Learning (1)|Supervised ML |Assignment 2|    
+| 8|Text and Supervised Learning (2)|ML + Ass1 review |||
+| 9|*Advanced Topic*: Automated Essay Scoring  |AES implementation||Project 2|
+| 10|Text and Unsupervised Learning (1)|Unsupervised ML|Assignment 3| 
+| 11|*Advanced Topic*: Topic Modelling and Summarization  | Ass3 review|||Project 3|
+| 12|**Project Discussion**   |**No Lab :)**|Assignment 4| |
+| 13|Language Modelling: Statistical Language Models |N-gram LM ||
+| 14|Language Modelling: Neural Language Models   |BERT + Ass4 review| |Project 4|
+| 15|**Project Presentation**   | ||Final Submission|
 
