@@ -38,14 +38,14 @@ This course is designed to introduce the basic concepts and techniques of natura
 | 2|Projecting Text into a Vector Space |Intro to Python & GitHub|    
 | 3|Projecting Text into a Vector Space |Text Vectorization|||
 | 4|Text and Psychometric Analysis (1)|	Text Analysis   |Assignment 1||
-| 5|Text and Psychometric Analysis (2)|	Text Analysis + Ass1 review||  
+| 5|Text and Psychometric Analysis (2)|	Ass1 review||  
 | 6|*Advanced Topic*: Computational Linguistic Tools   |Coh-Metrix||Project 1|
 | 7|Text and Supervised Learning (1)|Supervised ML |Assignment 2|    
-| 8|Text and Supervised Learning (2)|ML + Ass1 review |||
+| 8|Text and Supervised Learning (2)|Ass1 review |||
 | 9|*Advanced Topic*: Automated Essay Scoring  |AES implementation||Project 2|
 | 10|Text and Unsupervised Learning (1)|Unsupervised ML|Assignment 3| 
-| 11|*Advanced Topic*: Topic Modelling and Summarization  | Ass3 review|||Project 3|
-| 12|**Project Discussion**   |**No Lab :)**|Assignment 4| |
+| 11|*Advanced Topic*: Topic Modelling and Summarization  | Ass3 review||Project 3|
+| 12|**Project Discussion**   ||Assignment 4| |
 | 13|Language Modelling: Statistical Language Models |N-gram LM ||
 | 14|Language Modelling: Neural Language Models   |BERT + Ass4 review| |Project 4|
 | 15|**Project Presentation**   | ||Final Submission|
