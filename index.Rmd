@@ -18,8 +18,7 @@ output: html_document
 <hr />
 
 ### 1. Course Description 
-This course is designed to introduce the basic concepts and techniques of natural language processing in education research. We will especially focus on text mining and natural language understanding. Students will have opportunities **[1]** *to survey the NLP literature in emerging education research context* **[2]** *to acquire theoretical backgrounds to understand the methods and* **[3]** *to gain hands-on experience in education text analysis using Python.* The primary topics will include, but are not limited to, text vectorization, computational linguistic analysis, supervised and unsupervised ML  in text analysis.
-
+This project-based course is designed to introduce the basic concepts and techniques of natural language processing in education research. We will focus on text mining techniques and natural language understanding approaches commonly used in education text analysis. Students will have opportunitie to survey the NLP literature in the emerging AI education research context to acquire theoretical backgrounds to understand the methods, and to gain hands-on experience in education text analysis using Python. The primary topics will include, but are not limited to, text vectorization, factor analysis and dimensionality reduction, supervised, unsupervised and deep learning in text analysis. Two primary learning components of this course include the theoretical and mathematical aspects of NLP and the hands-on programming experience in NLP analysis using Python. 
 \
 
 #### Objectives 
