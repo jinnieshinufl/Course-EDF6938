@@ -4,7 +4,7 @@ navbar:
   left:
     - text: "Syllabus"
       href: index.html
-    - text: "Lecutre"
+    - text: "Lecture"
       href: Journal.html
     - text: "Resources"
       href: Links.html
