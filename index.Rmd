@@ -40,7 +40,7 @@ This project-based course is designed to introduce the basic concepts and techni
 | 5|Text and Psychometric Analysis (2)|	Ass1 review||  
 | 6|*Advanced Topic*: Computational Linguistic Tools   |Coh-Metrix|||
 | 7|Text and Supervised Learning (1)|Supervised ML |Assignment 2|    
-| 8|Text and Supervised Learning (2)|Ass1 review |||
+| 8|Text and Supervised Learning (2)|Ass2 review |||
 | 9|*Advanced Topic*: Automated Essay Scoring  |AES implementation|||
 | 10|Text and Unsupervised Learning (1)|Unsupervised ML|Assignment 3| 
 | 11|*Advanced Topic*: Topic Modelling and Summarization  | Ass3 review|||
