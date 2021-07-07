@@ -31,21 +31,20 @@ This project-based course is designed to introduce the basic concepts and techni
 
 ### 2. Schedule 
 
-|Week|Topic|Lab|Assignment|Project |
-|---|---|---|---|---|
-| 1|Introduction to NLP in Education Research|Intro to Python & GitHub| 
-| 2|Projecting Text into a Vector Space |Intro to Python & GitHub|    
-| 3|Projecting Text into a Vector Space |Text Vectorization|||
-| 4|Text and Psychometric Analysis (1)|	Text Analysis   |Assignment 1||
-| 5|Text and Psychometric Analysis (2)|	Ass1 review||  
-| 6|*Advanced Topic*: Computational Linguistic Tools   |Coh-Metrix|||
-| 7|Text and Supervised Learning (1)|Supervised ML |Assignment 2|    
-| 8|Text and Supervised Learning (2)|Ass2 review |||
-| 9|*Advanced Topic*: Automated Essay Scoring  |AES implementation|||
-| 10|Text and Unsupervised Learning (1)|Unsupervised ML|Assignment 3| 
-| 11|*Advanced Topic*: Topic Modelling and Summarization  | Ass3 review|||
-| 12|**Project Discussion**   ||| |
-| 13|Language Modelling: Statistical Language Models |N-gram LM ||
-| 14|Language Modelling: Neural Language Models   |BERT and ELMO| ||
-| 15|**Project Presentation**   | ||Final Submission|
-
+| Week |                                 Topic                                 |                  Lab                 |       Project       |
+|:----:|:---------------------------------------------------------------------:|:------------------------------------:|:-------------------:|
+|   1  |               Introduction to NLP in Education Research               |      Introduction to Python (1)      |                     |
+|   2  |                  Computational Psychometrics and NLP                  |      Introduction to Python (2)      |                     |
+|   3  |                  Unit of Analysis and Text Processing                 | Unit of Analysis and Text Processing |                     |
+|   4  |               Text Vectorization – Part 1: Bag-of-Words               |        Text Vectorization (1)        |                     |
+|   5  |                Text Vectorization – Part 2: Embeddings                |        Text Vectorization (2)        |                     |
+|   6  |            Text Vectorization – Part 3: Feature Engineering           |     Text Feature Engineering (3)     |                     |
+|   7  |                       Statistical Language Model                      |      Statistical Language Model      |                     |
+|   8  |       Machine Learning Overview – Supervised Learning Algorithms      |           Gradient Descent           |                     |
+|   9  |          Supervised Learning Algorithms: Text Classification          |          Text Classification         |                     |
+|  10  | Supervised Learning Algorithms: Neural Models and Text Classification |            Neural Networks           |                     |
+|  11  |           Unsupervised Learning Algorithms: Text Clustering           |            Text Clustering           |                     |
+|  12  |                 Proposal Presentation and Discussion                  |                                      | Outline Submission  |
+|  13  |             Unsupervised Learning Algorithms: Topic Models            |            Topic Modelling           |                     |
+|  14  |          Unsupervised Learning Algorithms: Text Summarization         |          Text Summarization          |                     |
+|  15  |                      Final Project Presentation                       |                                      | Analysis Submission |
